@@ -20,7 +20,7 @@ Define what a recommender system is, when it is used, and build one.
 
 | Topic | Skills |
 | ------ | ------ |
-| [Slides](./01-slides/) | - Overview of the main types of recommendation systems |
+| [Slides](https://github.com/ga-curriculum/ml-recommender-systems/blob/main/01-slides/Recommender-Systems.pdf){:target="_blank"} | - Overview of the main types of recommendation systems |
 | [Recommender Systems](./02-kmeans/) | - Walkthrough of a movie recommender system in `scikit-learn` |
 
 
